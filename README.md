@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 I'm Havish, and I'm a Computer Science Student at The University of Michigan - Ann Arbor.
 
-I'm a fullstack engineer who likes building products end to end, from the backend up through the UI. Right now I'm focused on high throughput platforms, most recently building market discovery tools and APIs at Gemini that serve millions of requests a day, along with LLM based matching and classification work. I'm always looking for the next fullstack or product engineering role where I can ship real features people use.
+I'm a backend engineer who likes building products end to end. Right now I'm focused on high throughput platforms, most recently building market discovery tools and APIs at Gemini that serve millions of requests a day, along with LLM based matching and classification work. I'm always looking for the next backend or product engineering role where I can ship real features people use.
 
 Overall, I'm interested in fullstack development, backend systems, cloud-native applications, and networks.
 
